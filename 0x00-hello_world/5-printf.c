@@ -4,9 +4,8 @@
  *
  * Return: 0
 */
- int main(void)
+int main(void)
 {
- print("with proper grammer, but the outcome is a piece on art.\n");
-
- return (0);
+print("with proper grammer, but the outcome is a piece on art.\n");
+return (0);
 }
