@@ -1,1 +1,1 @@
-how to use nested loop and functions
+whem and how to use nested loop and functions
